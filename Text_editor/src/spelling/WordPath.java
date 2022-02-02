@@ -2,10 +2,6 @@ package spelling;
 
 import java.util.List;
 
-/**
- * @author UC San Diego Intermediate MOOC team
- *
- */
 
 public interface WordPath {
 
